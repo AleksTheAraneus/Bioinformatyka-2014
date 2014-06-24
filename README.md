@@ -1,7 +1,7 @@
-## Bioinformatyka-2014
+# Bioinformatyka-2014
 ===================
 
-# Zadania z programowania w języku PERL.
+## Zadania z programowania w języku PERL.
 
 script1.pl wczytuje wskazany w wierszu polecenia plik w formacie FASTA. Zwraca długość podanej sekwencji.
 
